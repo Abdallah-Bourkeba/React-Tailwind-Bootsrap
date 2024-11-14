@@ -4,10 +4,15 @@ This project is a React application that demonstrates the use of Tailwind CSS fo
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Available Scripts](#available-scripts)
 - [Dependencies](#dependencies)
 - [Dev Dependencies](#dev-dependencies)
 - [Features](#features)
+
+## Demo
+
+Check out the live demo of the project [here](https://bourkeba-react-tailwind.netlify.app/).
 
 ## Available Scripts
 
