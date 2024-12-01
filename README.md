@@ -5,43 +5,11 @@ This project is a React application that demonstrates the use of Tailwind CSS fo
 ## Table of Contents
 
 - [Demo](#demo)
-- [Available Scripts](#available-scripts)
-- [Dependencies](#dependencies)
-- [Dev Dependencies](#dev-dependencies)
 - [Features](#features)
 
 ## Demo
 
 Check out the live demo of the project [here](https://bourkeba-react-tailwind.netlify.app/).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-- `npm start`: Starts the development server.
-- `npm build`: Builds the app for production.
-- `npm test`: Launches the test runner.
-- `npm eject`: Ejects the app configuration.
-
-## Dependencies
-
-- `@fortawesome/fontawesome-svg-core`
-- `@testing-library/jest-dom`
-- `@testing-library/react`
-- `@testing-library/user-event`
-- `bootstrap`
-- `react`
-- `react-dom`
-- `react-icons`
-- `react-router-dom`
-- `react-scripts`
-- `react-typed`
-- `tailwind-scrollbar-hide`
-- `web-vitals`
-
-## Dev Dependencies
-
-- `tailwindcss`
 
 ## Features
 
